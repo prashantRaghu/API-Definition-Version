@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: 'v1'
-  title: 'API Def'
+  title: 'API Defs'
   license:
     name: MIT
 servers:
